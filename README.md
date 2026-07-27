@@ -1,2 +1,2 @@
 # GANS
-Motimodal Recommendation System
+Mutimodal Recommendation System
